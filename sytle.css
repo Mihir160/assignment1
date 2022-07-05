@@ -26,7 +26,7 @@ p{
 }
 .linkbutton{
     text-decoration: none;
-    background-image: linear-gradient(orange,tomato);
+    background-image: linear-gradient(red,tomato);
     color: white;
     font-weight: 700;
     padding: 10px 40px;
@@ -36,3 +36,49 @@ p{
 #button1{
     padding: 2%;
 }
+#Dt1{
+    margin-top: 8%;
+    text-align: center;
+    color: black;
+    font-size: 45px; 
+}
+#Dt2{
+    text-align: center;
+    color: black;
+    
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+   
+}
+.shadow {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+    
+  }
+  #border{
+    background-color: rgb(246, 168, 168);
+    border:3px solid red
+  }
+  .form{
+    padding: 5%;
+    margin-left: 33%;
+    
+  }
+  input {
+    font-size: 30px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+   
+  }
+  #button2{
+    padding-bottom: 2%;
+    margin-left: 45%;
+  }
