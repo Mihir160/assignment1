@@ -70,7 +70,7 @@ p{
     margin-left: 33%;
     
   }
-  input {
+#ammount {
     font-size: 30px;
     border-top-style: hidden;
     border-right-style: hidden;
@@ -131,3 +131,29 @@ h4{
 #button2{
    padding: 10px;
 }
+
+.sub{
+    padding: 2%;
+}
+form{
+    
+    margin-left: 27%;
+    background-color:#FFFFF0;
+    height: 20vh;
+    width: 48%;
+    padding-top: 8%;
+    text-align: center;
+}
+#mail{
+    
+    font-size: 30px;
+
+  
+}
+#mail1{
+    font-size: 30px;
+    color: white;
+    background-color: red;
+    border-color: white; 
+}
+
