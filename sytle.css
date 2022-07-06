@@ -1,197 +1,197 @@
-body{
-    font-family: 'Poppins', sans-serif;
-    margin: 0;
+    body{
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
 
-}
-.banner-area{
-    display: flex;
-    height: 95vh;
-    width: 100%;
-    background-image: url(images/donation13.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-   
-}
-.content{
+    }
+    .banner-area{
+        display: flex;
+        height: 95vh;
+        width: 100%;
+        background-image: url(images/donation13.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+    }
+    .content{
+        text-align: center;
+        margin-left: 20%;
+        margin-top: 18%;
+    }
+    h1{
+        color: white;
+        font-size: 50px;
+
+    }
+    p{
+        color: white;
+    }
+    .linkbutton{
+        text-decoration: none;
+        background-image: linear-gradient(red,tomato);
+        color: white;
+        font-weight: 700;
+        padding: 10px 40px;
+        border-radius: 5px;
+
+    }
+    #button1{
+        padding: 2%;
+    }
+    #Dt1{
+        margin-top: 10%;
+        text-align: center;
+        color: black;
+        font-size: 45px; 
+    }
+    #Dt2{
+        text-align: center;
+        color: black;
+        
+    }
+    .flex-container {
+        display: flex;
+        justify-content: center;
+        font-size: 30px;
+    
+    }
+    .shadow {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
     text-align: center;
-    margin-left: 20%;
-    margin-top: 18%;
-}
-h1{
-    color: white;
-    font-size: 50px;
+    line-height: 75px;
+        
+    }
+    #border{
+        background-color: rgb(246, 168, 168);
+        border:3px solid red
+    }
+    .form{
+        padding: 5%;
+        margin-left: 33%;
+        
+    }
+    #ammount {
+        font-size: 30px;
+        border-top-style: hidden;
+        border-right-style: hidden;
+        border-left-style: hidden;
+        border-bottom-style: groove;
+    
+    }
+    #button2{
+        padding-bottom: 2%;
+        margin-left: 45%;
+    }
+    
+    #containerp{
+        color: black;
+    }
+    .flexible-container{
+        display: flex;
+        justify-content: center;
+        padding-top: 2%;
+    }
+    .experience-item1{
+        padding: 2%;
+        width: 50%;
+        background-color: #D3D3D3;
+        margin-left: 5%;
+        margin-right: 5%;
+        border-radius: 10px;
+        box-shadow: 10px 10px 30px gray;
+        
+    }
+    .experience-item2{
+        padding: 2%;
+        width: 50%;
+        background-color: rgba(195, 168, 193, 0.964);
+        margin-left: 5%;
+        margin-right: 5%;
+        border-radius: 10px;
+        box-shadow: 10px 10px 30px gray;
+        
+    }
+    .experience-item3{
+        padding: 2%;
+        width: 50%;
+        background-color: #FFEFD5;
+        margin-left: 5%;
+        margin-right: 5%;
+        border-radius: 10px;
+        box-shadow: 10px 10px 30px gray;
+        
+    }
+    #containerp1{
+        font-weight: bold;
+        color:white;
+        padding-top: 2%;
+    }
+    .flex2{
+        font-weight: bold;
+        color: white;
+        background-image: url(images/bangladesh.jpg);
+        background-repeat: no-repeat;
+        height: 50vh;
+        background-size: cover;
+        
+    }
+    .halfwidth{
+        
+        width: 50%;
+        padding-left: 4%;
+    }
 
-}
-p{
-    color: white;
-}
-.linkbutton{
-    text-decoration: none;
-    background-image: linear-gradient(red,tomato);
-    color: white;
-    font-weight: 700;
-    padding: 10px 40px;
-    border-radius: 5px;
+    h3{
+        font-size: 50px;
+    }
+    h4{
+        font-size: 30px;
+    }
 
-}
-#button1{
-    padding: 2%;
-}
-#Dt1{
-    margin-top: 10%;
-    text-align: center;
-    color: black;
-    font-size: 45px; 
-}
-#Dt2{
-    text-align: center;
-    color: black;
-    
-}
-.flex-container {
-    display: flex;
-    justify-content: center;
-    font-size: 30px;
-   
-}
-.shadow {
-  background-color: #f1f1f1;
-  width: 100px;
-  margin: 10px;
-  text-align: center;
-  line-height: 75px;
-    
-  }
-#border{
-    background-color: rgb(246, 168, 168);
-    border:3px solid red
-  }
-.form{
-    padding: 5%;
-    margin-left: 33%;
-    
-  }
-#ammount {
-    font-size: 30px;
-    border-top-style: hidden;
-    border-right-style: hidden;
-    border-left-style: hidden;
-    border-bottom-style: groove;
-   
-  }
-#button2{
-    padding-bottom: 2%;
-    margin-left: 45%;
-  }
- 
-#containerp{
-    color: black;
-}
-.flexible-container{
-    display: flex;
-    justify-content: center;
-    padding-top: 2%;
-}
-.experience-item1{
-    padding: 2%;
-    width: 50%;
-    background-color: #D3D3D3;
-    margin-left: 5%;
-    margin-right: 5%;
-    border-radius: 10px;
-    box-shadow: 10px 10px 30px gray;
-    
-}
-.experience-item2{
-    padding: 2%;
-    width: 50%;
-    background-color: rgba(195, 168, 193, 0.964);
-    margin-left: 5%;
-    margin-right: 5%;
-    border-radius: 10px;
-    box-shadow: 10px 10px 30px gray;
-    
-}
-.experience-item3{
-    padding: 2%;
-    width: 50%;
-    background-color: #FFEFD5;
-    margin-left: 5%;
-    margin-right: 5%;
-    border-radius: 10px;
-    box-shadow: 10px 10px 30px gray;
-    
-}
-#containerp1{
-    font-weight: bold;
-    color:white;
-    padding-top: 2%;
-}
-.flex2{
-    font-weight: bold;
-    color: white;
-    background-image: url(images/bangladesh.jpg);
-    background-repeat: no-repeat;
-    height: 50vh;
-    background-size: cover;
-    
-   }
-.halfwidth{
-    
-    width: 50%;
-    padding-left: 4%;
-}
+    #button2{
+    padding: 10px;
+    }
 
-h3{
-    font-size: 50px;
-}
-h4{
-    font-size: 30px;
-}
-
-#button2{
-   padding: 10px;
-}
-
-.sub{
-    padding: 2%;
+    .sub{
+        padding: 2%;
+        
+    }
+    .mailsubmit{
+        border-radius: 15px;
+        margin-left: 27%;
+        background-color:#FFFACD;
+        height: 18vh;
+        width: 50%;
+        padding-top: 8%;
+        text-align: center;
+    }
+    #mail{
     
-}
-.mailsubmit{
-    border-radius: 15px;
-    margin-left: 27%;
-    background-color:#FFFACD;
-    height: 18vh;
-    width: 50%;
-    padding-top: 8%;
-    text-align: center;
-}
-#mail{
-   
-    font-size: 22px;
-   
+        font-size: 22px;
+    
 
-  
-}
-#subbtn{
-    margin-left: -5px;
-    font-size: 24px;
-    color: white;
-    border: none;
-    background-color: red;
-   
-}
-footer{
-    background-color: black;
-    height: 25vh;
-}
-#footer{
-    padding-top: 2%;
-    font-family: 'Lobster';
-    text-align: center;
-    color: red;
-}
-#footerp{
-    text-align: center;
-    color:white;
-}
+    
+    }
+    #subbtn{
+        margin-left: -5px;
+        font-size: 24px;
+        color: white;
+        border: none;
+        background-color: red;
+    
+    }
+    footer{
+        background-color: black;
+        height: 25vh;
+    }
+    #footer{
+        padding-top: 2%;
+        font-family: 'Lobster';
+        text-align: center;
+        color: red;
+    }
+    #footerp{
+        text-align: center;
+        color:white;
+    }
