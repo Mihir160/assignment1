@@ -119,6 +119,11 @@ p{
 h3{
     font-size: 50px;
 }
+.flex3{
+    padding-top: 8%;
+    display: flex;
+    margin-bottom: 100px;
+}
 
 #button2{
    padding: 10px;
