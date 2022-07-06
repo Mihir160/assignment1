@@ -119,6 +119,9 @@ p{
 h3{
     font-size: 50px;
 }
+h4{
+    font-size: 30px;
+}
 .flex3{
     padding-top: 8%;
     display: flex;
