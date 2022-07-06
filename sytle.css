@@ -62,11 +62,11 @@ p{
   line-height: 75px;
     
   }
-  #border{
+#border{
     background-color: rgb(246, 168, 168);
     border:3px solid red
   }
-  .form{
+.form{
     padding: 5%;
     margin-left: 33%;
     
@@ -79,7 +79,7 @@ p{
     border-bottom-style: groove;
    
   }
-  #button2{
+#button2{
     padding-bottom: 2%;
     margin-left: 45%;
   }
@@ -123,31 +123,30 @@ p{
     
 }
 #containerp1{
-    color: black;
+    font-weight: bold;
+    color:white;
     padding-top: 2%;
 }
+.flex2{
+    font-weight: bold;
+    color: white;
+    background-image: url(images/bangladesh.jpg);
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: cover;
+    
+   }
 .halfwidth{
+    
     width: 50%;
     padding-left: 4%;
 }
-.halfwidth img{
-    width: 80%;
-}
-.flex2{
-    padding-top: 10%;
-    display: flex;
-    margin-bottom: 100px;
-}
+
 h3{
     font-size: 50px;
 }
 h4{
     font-size: 30px;
-}
-.flex3{
-    padding-top: 8%;
-    display: flex;
-    margin-bottom: 100px;
 }
 
 #button2{
@@ -168,18 +167,19 @@ h4{
     text-align: center;
 }
 #mail{
-    
-    font-size: 24px;
-    border-radius: 5px;
+   
+    font-size: 22px;
+   
 
   
 }
 #subbtn{
-    margin-left: -8px;
-    font-size: 25px;
+    margin-left: -5px;
+    font-size: 24px;
     color: white;
+    border: none;
     background-color: red;
-    border-color: white; 
+   
 }
 footer{
     background-color: black;
