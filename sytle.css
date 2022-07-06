@@ -170,11 +170,12 @@ h4{
 #mail{
     
     font-size: 25px;
+    border-radius: 5px;
 
   
 }
 #mail1{
-    
+    border-radius: 5px;
     font-size: 25px;
     color: white;
     background-color: red;
