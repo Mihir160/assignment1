@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 
 }
 .banner-area{
@@ -158,11 +159,11 @@ h4{
     
 }
 .mailsubmit{
-    
+    border-radius: 15px;
     margin-left: 27%;
-    background-color:#FFFFF0;
+    background-color:#FFFACD;
     height: 18vh;
-    width: 48%;
+    width: 50%;
     padding-top: 8%;
     text-align: center;
 }
@@ -173,6 +174,7 @@ h4{
   
 }
 #mail1{
+    
     font-size: 25px;
     color: white;
     background-color: red;
