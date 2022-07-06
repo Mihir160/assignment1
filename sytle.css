@@ -135,7 +135,7 @@ h4{
 .sub{
     padding: 2%;
 }
-form{
+.mailsubmit{
     
     margin-left: 27%;
     background-color:#FFFFF0;
@@ -156,4 +156,17 @@ form{
     background-color: red;
     border-color: white; 
 }
-
+footer{
+    background-color: black;
+    height: 25vh;
+}
+#footer{
+    padding-top: 2%;
+    font-style: oblique;
+    text-align: center;
+    color: red;
+}
+#footerp{
+    text-align: center;
+    color:white;
+}
