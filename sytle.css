@@ -169,14 +169,13 @@ h4{
 }
 #mail{
     
-    font-size: 25px;
+    font-size: 24px;
     border-radius: 5px;
 
   
 }
 #subbtn{
-    
-    border-radius: 5px;
+    margin-left: -8px;
     font-size: 25px;
     color: white;
     background-color: red;
