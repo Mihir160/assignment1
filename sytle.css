@@ -91,9 +91,30 @@ p{
     justify-content: center;
     padding-top: 2%;
 }
-.experience-item{
+.experience-item1{
     padding: 2%;
     width: 50%;
+    background-color: #D3D3D3;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    
+}
+.experience-item2{
+    padding: 2%;
+    width: 50%;
+    background-color: rgba(195, 168, 193, 0.964);
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    
+}
+.experience-item3{
+    padding: 2%;
+    width: 50%;
+    background-color: #FFEFD5;
     margin-left: 5%;
     margin-right: 5%;
     border-radius: 10px;
