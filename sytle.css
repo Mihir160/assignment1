@@ -134,24 +134,25 @@ h4{
 
 .sub{
     padding: 2%;
+    
 }
 .mailsubmit{
     
     margin-left: 27%;
     background-color:#FFFFF0;
-    height: 20vh;
+    height: 18vh;
     width: 48%;
     padding-top: 8%;
     text-align: center;
 }
 #mail{
     
-    font-size: 30px;
+    font-size: 25px;
 
   
 }
 #mail1{
-    font-size: 30px;
+    font-size: 25px;
     color: white;
     background-color: red;
     border-color: white; 
@@ -162,7 +163,7 @@ footer{
 }
 #footer{
     padding-top: 2%;
-    font-style: oblique;
+    font-family: 'Lobster';
     text-align: center;
     color: red;
 }
